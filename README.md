@@ -1,35 +1,47 @@
-# Calculadora em Python
-Bem-vindo à Calculadora em Python! Esta é uma simples calculadora de linha de comando desenvolvida em Python para realizar operações matemáticas básicas.
+# 🧮 Calculadora em Python (CLI)
 
-Funcionalidades
-Adição
-Subtração
-Multiplicação
-Divisão
-Potenciação
-Raiz quadrada
-Requisitos
-Certifique-se de ter o Python instalado em sua máquina. Este projeto foi desenvolvido e testado na versão Python 3.x.
+Bem-vindo à **Calculadora em Python**!  
+Este é um projeto simples de calculadora para terminal/linha de comando, desenvolvida em Python para realizar operações matemáticas básicas com praticidade e sem complicações.
 
-## Funcionalidades
-- Adição
-- Subtração
-- Multiplicação
-- Divisão
-- Potenciação
-- Raiz quadrada
+---
 
-## Requisitos
-Certifique-se de ter o Python instalado em sua máquina. Este projeto foi desenvolvido e testado na versão Python 3.x.
+## ✨ Funcionalidades
 
-## Instalação
-1. Clone este repositório:
+- ➕ Adição  
+- ➖ Subtração  
+- ✖️ Multiplicação  
+- ➗ Divisão  
+- 🧠 Potenciação  
+- 📐 Raiz Quadrada
+
+---
+
+## ⚙️ Requisitos
+
+- Python 3.x instalado no seu sistema.
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+
 ```bash
 git clone https://github.com/WallanDavid/Calculadora-em-Python.git
 cd Calculadora-em-Python
+```
 
-1.1 python calculadora.py
+2. Execute o script:
 
+```bash
+python calculadora.py
+```
+
+---
+
+## 🧪 Exemplo de Uso
+
+```
 Escolha uma operação:
 1. Adição
 2. Subtração
@@ -43,5 +55,26 @@ Digite o primeiro número: 5
 Digite o segundo número: 3
 
 Resultado: 8
+```
 
+---
 
+## 🤝 Contribuição
+
+Quer ajudar? Contribuições são sempre bem-vindas!
+
+1. Faça um fork  
+2. Crie uma branch com sua feature: `git checkout -b minha-feature`  
+3. Commit suas mudanças: `git commit -m 'feat: minha nova feature'`  
+4. Push para o branch: `git push origin minha-feature`  
+5. Abra um pull request 🚀
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a **Licença GPL-3.0**.
+
+---
+
+🎯 Ideal para quem está começando no mundo Python e quer praticar com algo útil e didático!
